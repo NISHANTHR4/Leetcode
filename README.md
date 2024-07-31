@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/NISHANTHR4/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,4 +41,9 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/NISHANTHR4/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NISHANTHR4/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
