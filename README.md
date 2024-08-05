@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NISHANTHR4/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NISHANTHR4/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NISHANTHR4/Leetcode/tree/master/0125-valid-palindrome) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NISHANTHR4/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
