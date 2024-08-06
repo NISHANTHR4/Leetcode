@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NISHANTHR4/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/NISHANTHR4/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0058-length-of-last-word](https://github.com/NISHANTHR4/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NISHANTHR4/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/NISHANTHR4/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
