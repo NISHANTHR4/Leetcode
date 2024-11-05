@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NISHANTHR4/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
