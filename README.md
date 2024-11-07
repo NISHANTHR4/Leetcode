@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/NISHANTHR4/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
