@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NISHANTHR4/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/NISHANTHR4/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NISHANTHR4/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NISHANTHR4/Leetcode/tree/master/0125-valid-palindrome) |
@@ -96,4 +97,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NISHANTHR4/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/NISHANTHR4/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/NISHANTHR4/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NISHANTHR4/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
