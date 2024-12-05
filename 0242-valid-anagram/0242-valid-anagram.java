@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length())
+        if(s==null || t==null || s.length()!=t.length())
         {
             return false;
         }
@@ -8,7 +8,7 @@ class Solution {
         char[] ch2=t.toCharArray();
         Arrays.sort(ch1);
         Arrays.sort(ch2);
-        for(int i=0;i<ch1.length;i++)
+        for(int i=0;i<s.length();i++)
         {
             if(ch1[i]!=ch2[i])
             {
@@ -16,6 +16,6 @@ class Solution {
             }
         }
         return true;
-
+        
     }
 }
