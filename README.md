@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 ## Trie
 |  |
 | ------- |
