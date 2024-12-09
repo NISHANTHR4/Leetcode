@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/NISHANTHR4/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0290-word-pattern](https://github.com/NISHANTHR4/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/NISHANTHR4/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
