@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/NISHANTHR4/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -40,6 +41,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/NISHANTHR4/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/NISHANTHR4/Leetcode/tree/master/1894-merge-strings-alternately) |
