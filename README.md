@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NISHANTHR4/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/NISHANTHR4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/NISHANTHR4/Leetcode/tree/master/0053-maximum-subarray) |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NISHANTHR4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -123,6 +125,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NISHANTHR4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NISHANTHR4/Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
