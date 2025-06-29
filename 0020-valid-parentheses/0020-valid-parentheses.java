@@ -1,27 +1,24 @@
-class Solution {
+class Solution {//{(a)}
     public boolean isValid(String s) {
-        Stack<Character> stack=new Stack<>();
-        for(int i=0;i<s.length();i++)
-        {
-            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='[')
-            {
-                stack.push(s.charAt(i));
-            }
-            else {
-                
-                if (stack.isEmpty()) {
-                    return false;
-                }
-            
-            char top=stack.peek();
-            if(s.charAt(i)==')' && top=='(' ||
-            s.charAt(i)=='}' && top=='{' ||
-            s.charAt(i)==']' && top=='[' ){
-                stack.pop();
-            }
-            else return false;}
+       Stack<Character> para=new Stack<>();
+       for(int i=0;i<s.length();i++){
+        if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='['){
+            para.push(s.charAt(i));
         }
-        return stack.isEmpty();
-        
+        else if(s.charAt(i)==')' || s.charAt(i)=='}' || s.charAt(i)==']'){
+            if(para.isEmpty()) return false;
+            char top=para.pop();
+            if((s.charAt(i)==')' && top!='(') ||
+            (s.charAt(i)=='}' && top!='{')  ||
+             (s.charAt(i)==']' && top!='[')){
+                return false;
+             }
+
+        }
+        else{
+            continue;
+        }
+       }
+       return para.isEmpty();
     }
 }
