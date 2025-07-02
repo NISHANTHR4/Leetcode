@@ -24,6 +24,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NISHANTHR4/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/NISHANTHR4/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NISHANTHR4/Leetcode/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +145,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NISHANTHR4/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/NISHANTHR4/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
