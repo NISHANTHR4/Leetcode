@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NISHANTHR4/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NISHANTHR4/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NISHANTHR4/Leetcode/tree/master/0605-can-place-flowers) |
@@ -36,6 +37,7 @@
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NISHANTHR4/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NISHANTHR4/Leetcode/tree/master/0290-word-pattern) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
@@ -44,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NISHANTHR4/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NISHANTHR4/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
@@ -113,6 +117,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/NISHANTHR4/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/NISHANTHR4/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
@@ -164,4 +169,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
