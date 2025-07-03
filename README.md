@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NISHANTHR4/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NISHANTHR4/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/NISHANTHR4/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NISHANTHR4/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/NISHANTHR4/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
