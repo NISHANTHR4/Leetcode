@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/NISHANTHR4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NISHANTHR4/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NISHANTHR4/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/NISHANTHR4/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NISHANTHR4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NISHANTHR4/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +106,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NISHANTHR4/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/NISHANTHR4/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
