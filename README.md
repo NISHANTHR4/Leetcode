@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NISHANTHR4/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/NISHANTHR4/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/NISHANTHR4/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NISHANTHR4/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/NISHANTHR4/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NISHANTHR4/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/NISHANTHR4/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -62,6 +64,7 @@
 | [0283-move-zeroes](https://github.com/NISHANTHR4/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NISHANTHR4/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/NISHANTHR4/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NISHANTHR4/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NISHANTHR4/Leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -78,6 +81,7 @@
 | [0217-contains-duplicate](https://github.com/NISHANTHR4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NISHANTHR4/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/NISHANTHR4/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NISHANTHR4/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3226-minimum-number-game](https://github.com/NISHANTHR4/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
@@ -118,6 +122,7 @@
 | [0035-search-insert-position](https://github.com/NISHANTHR4/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NISHANTHR4/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/NISHANTHR4/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/NISHANTHR4/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/NISHANTHR4/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/NISHANTHR4/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
